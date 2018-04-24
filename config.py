@@ -1,0 +1,8 @@
+NAME="tmp"
+
+HOST="localhost"
+USER="testbot"
+PASS="password"
+WIKIBASE_PORT=7171
+WDQS_FRONTEND=7272
+PROXY=7373
